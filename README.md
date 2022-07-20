@@ -11,7 +11,7 @@ Refreshed my Github knowledge.
 I'm a fan of Linux and terminal.
 
 <details>
-<summary>Screenshot</summary>
+<summary>Screenshots</summary>
 
 ![Screenshot-image-link](task_linux_cli/module-1.jpg)
 ![Screenshot-image-link](task_linux_cli/module-2.jpg)
@@ -24,8 +24,15 @@ I'm a fan of Linux and terminal.
 
 I'm on my way to Git mastery.
 
-## 4. Intro to HTML and CSS
+<details>
+<summary>Screenshots</summary>
+
+![Screenshot-image-link](task_git_collaboration/image-1.jpg)
+
+</details>
+
+<!-- ## 4. Intro to HTML and CSS
 
 CSS hacking is my new hobby.
 
-## 5. Responsive Web Design
+## 5. Responsive Web Design -->
