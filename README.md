@@ -46,4 +46,13 @@ CSS hacking is my new hobby.
 
 </details>
 
-<!-- ## 5. Responsive Web Design -->
+## 5. Responsive Web Design
+
+Now media queries are not magic for me (maybe not).
+
+<details>
+<summary>Screenshots</summary>
+
+![Screenshot-image-link](task_responsive_web_design/image-1.jpg)
+
+</details>
