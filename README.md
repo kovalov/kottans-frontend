@@ -54,5 +54,7 @@ Now media queries are not magic for me (maybe not).
 <summary>Screenshots</summary>
 
 ![Screenshot-image-link](task_responsive_web_design/image-1.jpg)
+![Screenshot-image-link](task_responsive_web_design/image-2.jpg)
+![Screenshot-image-link](task_responsive_web_design/image-3.jpg)
 
 </details>
