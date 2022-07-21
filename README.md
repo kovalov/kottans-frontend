@@ -33,8 +33,17 @@ I'm on my way to Git mastery.
 
 </details>
 
-<!-- ## 4. Intro to HTML and CSS
+## 4. Intro to HTML and CSS
 
 CSS hacking is my new hobby.
 
-## 5. Responsive Web Design -->
+<details>
+<summary>Screenshots</summary>
+
+![Screenshot-image-link](task_html_css_into/image-1.jpg)
+![Screenshot-image-link](task_html_css_into/image-2.jpg)
+![Screenshot-image-link](task_html_css_into/image-3.jpg)
+
+</details>
+
+<!-- ## 5. Responsive Web Design -->
