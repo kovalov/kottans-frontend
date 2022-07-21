@@ -28,6 +28,8 @@ I'm on my way to Git mastery.
 <summary>Screenshots</summary>
 
 ![Screenshot-image-link](task_git_collaboration/image-1.jpg)
+![Screenshot-image-link](task_git_collaboration/image-2.jpg)
+![Screenshot-image-link](task_git_collaboration/image-3.jpg)
 
 </details>
 
