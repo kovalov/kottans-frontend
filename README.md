@@ -40,9 +40,9 @@ CSS hacking is my new hobby.
 <details>
 <summary>Screenshots</summary>
 
-![Screenshot-image-link](task_html_css_into/image-1.jpg)
-![Screenshot-image-link](task_html_css_into/image-2.jpg)
-![Screenshot-image-link](task_html_css_into/image-3.jpg)
+![Screenshot-image-link](task_html_css_intro/image-1.jpg)
+![Screenshot-image-link](task_html_css_intro/image-2.jpg)
+![Screenshot-image-link](task_html_css_intro/image-3.jpg)
 
 </details>
 
