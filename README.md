@@ -2,7 +2,7 @@
 
 🐈‍⬛🐈‍⬛🐈‍⬛
 
-## 1. Git та GitHub
+## 1. Git & GitHub
 
 Refreshed my Github knowledge.
 
@@ -59,7 +59,12 @@ Now media queries are not magic for me (maybe not).
 
 </details>
 
-## 6. JS Basics
+## 6. HTML & CSS Practice
+
+[Demo Url](https://github.com/kovalov/dropdown-menu-css)
+[Codebase](https://kovalov.github.io/dropdown-menu-css/)
+
+## 7. JS Basics
 
 Refereshing my JS knowledge and getting better in setters/getters and array methods.
 
@@ -72,5 +77,15 @@ Refereshing my JS knowledge and getting better in setters/getters and array meth
 ![Screenshot-image-link](task_js_basics/image-4.jpg)
 ![Screenshot-image-link](task_js_basics/image-5.jpg)
 ![Screenshot-image-link](task_js_basics/image-6.jpg)
+
+</details>
+
+## 8. Document Object Model
+
+<details>
+<summary>Screenshots</summary>
+
+![Screenshot-image-link](task_js_dom/image-1.jpg)
+![Screenshot-image-link](task_js_dom/image-1.jpg)
 
 </details>
