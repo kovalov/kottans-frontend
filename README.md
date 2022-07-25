@@ -58,3 +58,19 @@ Now media queries are not magic for me (maybe not).
 ![Screenshot-image-link](task_responsive_web_design/image-3.jpg)
 
 </details>
+
+## 6. JS Basics
+
+Refereshing my JS knowledge and getting better in setters/getters and array methods.
+
+<details>
+<summary>Screenshots</summary>
+
+![Screenshot-image-link](task_js_basics/image-1.jpg)
+![Screenshot-image-link](task_js_basics/image-2.jpg)
+![Screenshot-image-link](task_js_basics/image-3.jpg)
+![Screenshot-image-link](task_js_basics/image-4.jpg)
+![Screenshot-image-link](task_js_basics/image-5.jpg)
+![Screenshot-image-link](task_js_basics/image-6.jpg)
+
+</details>
