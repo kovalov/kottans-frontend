@@ -62,6 +62,7 @@ Now media queries are not magic for me (maybe not).
 ## 6. HTML & CSS Practice
 
 [Demo Url](https://github.com/kovalov/dropdown-menu-css)
+
 [Codebase](https://kovalov.github.io/dropdown-menu-css/)
 
 ## 7. JS Basics
