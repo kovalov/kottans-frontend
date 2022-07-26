@@ -80,13 +80,14 @@ Refereshing my JS knowledge and getting better in setters/getters and array meth
 ![Screenshot-image-link](task_js_basics/image-6.jpg)
 
 </details>
-
-## 8. Document Object Model
+<!--
+## 8. DOM
 
 <details>
 <summary>Screenshots</summary>
 
 ![Screenshot-image-link](task_js_dom/image-1.jpg)
-![Screenshot-image-link](task_js_dom/image-1.jpg)
+![Screenshot-image-link](task_js_dom/image-2.jpg)
 
 </details>
+ -->
