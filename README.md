@@ -80,14 +80,19 @@ Refereshing my JS knowledge and getting better in setters/getters and array meth
 ![Screenshot-image-link](task_js_basics/image-6.jpg)
 
 </details>
-<!--
+
 ## 8. DOM
+
+DOM manipulations is my second nature.
 
 <details>
 <summary>Screenshots</summary>
 
 ![Screenshot-image-link](task_js_dom/image-1.jpg)
-![Screenshot-image-link](task_js_dom/image-2.jpg)
+![Screenshot-image-link](task_js_dom/image-2.png)
 
 </details>
- -->
+
+[Demo Url](https://kovalov.github.io/kottans-dom-project/)
+
+[Codebase](https://github.com/kovalov/kottans-dom-project)
