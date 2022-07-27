@@ -96,3 +96,11 @@ DOM manipulations is my second nature.
 [Demo Url](https://kovalov.github.io/kottans-dom-project/)
 
 [Codebase](https://github.com/kovalov/kottans-dom-project)
+
+## 9. Building a Tiny JS World
+
+Maybe in future I will be an OOP fan.
+
+[Demo Url](https://kovalov.github.io/a-tiny-JS-world/)
+
+[Codebase](https://github.com/kovalov/a-tiny-JS-world)
