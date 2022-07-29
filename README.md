@@ -104,3 +104,21 @@ Maybe in future I will be an OOP fan.
 [Demo Url](https://kovalov.github.io/a-tiny-JS-world/)
 
 [Codebase](https://github.com/kovalov/a-tiny-JS-world)
+
+## 10. Object Oriented JS
+
+Have not become OOP fan yet.
+
+<summary>Screenshots</summary>
+
+![Screenshot-image-link](task_js_oop/image-1.jpg)
+
+</details>
+
+## 11. OOP Exercise
+
+OOP become more clearer to me.
+
+[Demo Url](https://kovalov.github.io/a-tiny-JS-world/)
+
+[Codebase](https://github.com/kovalov/a-tiny-JS-world/)
