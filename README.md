@@ -109,6 +109,7 @@ Maybe in future I will be an OOP fan.
 
 Have not become OOP fan yet.
 
+<details>
 <summary>Screenshots</summary>
 
 ![Screenshot-image-link](task_js_oop/image-1.jpg)
