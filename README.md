@@ -2,11 +2,11 @@
 
 🐈‍⬛🐈‍⬛🐈‍⬛
 
-## 1. Git & GitHub
+## 0. Git & GitHub
 
 Refreshed my Github knowledge.
 
-## 2. Linux CLI, and HTTP
+## 1. Linux CLI, and HTTP
 
 I'm a fan of Linux and terminal.
 
@@ -20,7 +20,7 @@ I'm a fan of Linux and terminal.
 
 </details>
 
-## 3. Git Collaboration
+## 2. Git Collaboration
 
 I'm on my way to Git mastery.
 
@@ -33,7 +33,7 @@ I'm on my way to Git mastery.
 
 </details>
 
-## 4. Intro to HTML and CSS
+## 3. Intro to HTML and CSS
 
 CSS hacking is my new hobby.
 
@@ -46,7 +46,7 @@ CSS hacking is my new hobby.
 
 </details>
 
-## 5. Responsive Web Design
+## 4. Responsive Web Design
 
 Now media queries are not magic for me (maybe not).
 
@@ -59,13 +59,13 @@ Now media queries are not magic for me (maybe not).
 
 </details>
 
-## 6. HTML & CSS Practice
+## 5. HTML & CSS Practice
 
 [Demo Url](https://kovalov.github.io/dropdown-menu-css/)
 
 [Codebase](https://github.com/kovalov/dropdown-menu-css)
 
-## 7. JS Basics
+## 6. JS Basics
 
 Refereshing my JS knowledge and getting better in setters/getters and array methods.
 
@@ -81,7 +81,7 @@ Refereshing my JS knowledge and getting better in setters/getters and array meth
 
 </details>
 
-## 8. DOM
+## 7. DOM
 
 DOM manipulations is my second nature.
 
@@ -97,7 +97,7 @@ DOM manipulations is my second nature.
 
 [Codebase](https://github.com/kovalov/kottans-dom-project)
 
-## 9. Building a Tiny JS World
+## 8. Building a Tiny JS World
 
 Maybe in future I will be an OOP fan.
 
@@ -105,9 +105,15 @@ Maybe in future I will be an OOP fan.
 
 [Codebase](https://github.com/kovalov/a-tiny-JS-world)
 
-## 10. Object Oriented JS
+## 9. Object Oriented JS
 
 Have not become OOP fan yet.
+
+### Frogger Game
+
+[Demo Url](https://kovalov.github.io/kottans-frogger-game/)
+
+[Codebase](https://github.com/kovalov/kottans-frogger-game)
 
 <details>
 <summary>Screenshots</summary>
@@ -116,10 +122,26 @@ Have not become OOP fan yet.
 
 </details>
 
-## 11. OOP Exercise
+## 10. OOP Exercise
 
 OOP become more clearer to me.
 
 [Demo Url](https://kovalov.github.io/a-tiny-JS-world/)
 
 [Codebase](https://github.com/kovalov/a-tiny-JS-world/)
+
+## 11. Offline Web Applications
+
+## 12. Memory – Pair Game
+
+[Demo Url](https://kovalov.github.io/kottans-memory-game/)
+
+[Codebase](https://github.com/kovalov/kottans-memory-game)
+
+## 13. Website Performance Optimization
+
+## 14. Friends App
+
+<!-- [Demo Url]()
+
+[Codebase]() -->
