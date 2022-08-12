@@ -144,6 +144,8 @@ With tears and struggle I have finished the game.
 
 ## 14. Friends App
 
+Inputs, labels, tears, fear of JS and all other things.
+
 [Demo Url](https://kovalov.github.io/kottans-friends-app/)
 
 [Codebase](https://github.com/kovalov/kottans-friends-app)
