@@ -134,6 +134,8 @@ OOP become more clearer to me.
 
 ## 12. Memory – Pair Game
 
+With tears and struggle I have finished the game.
+
 [Demo Url](https://kovalov.github.io/kottans-memory-game/)
 
 [Codebase](https://github.com/kovalov/kottans-memory-game)
@@ -142,6 +144,6 @@ OOP become more clearer to me.
 
 ## 14. Friends App
 
-<!-- [Demo Url]()
+[Demo Url](https://kovalov.github.io/kottans-friends-app/)
 
-[Codebase]() -->
+[Codebase](https://github.com/kovalov/kottans-friends-app)
